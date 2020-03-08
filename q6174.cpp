@@ -39,8 +39,14 @@ int main()
 		a[count] = get_next(a[count-1]);
 		cout<<"->"<<a[count];
 		
-		if(a[count] == a[count-1])
-			break;
+		bool found = false;
+		for(int i=0;i<count;i++)
+			if(a[i] == a[count])
+				{
+					found = true;
+					break;
+				}
+		if(found) break;
 		count++;
 	}
 	return 0;
