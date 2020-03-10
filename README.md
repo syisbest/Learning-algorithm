@@ -1,4 +1,7 @@
 # Learning-algorithm
+
+## 8queen 八皇后问题
+
 ## add_ans 加法进位的次数计算
 
 ## array_move 移动数组中的数
@@ -11,17 +14,25 @@
 
 ## factorial_prime n的阶乘可以写成多个素数的积，求出每个素数的个数
 
+## hard_string 由n个字母搭配形成l长的字符串，串中没有子串循环
+
 ## list_ex 链表使用案例：移动数据，删除后插入
 
 ## map_ex 图使用案例：找八连通区域
 
 ## n_sum 数组中n个数的和为sum
 
-## new_print_permutation 从一个数组中取数全排列
-
 ## palindrome_number 输出一个回文数且各个位的和等于一个给定的数
 
+## prime_loop 一个由数字1到n形成的环，环内相邻两位数之和为素数
+
 ## print_permutation 输出从1到n的全排列
+
+## print_permutation_new 从一个数组中取数全排列
+
+## print_subset 输出0到n集合的子集 增量和位向量法
+
+## print_subset_new 输出0到n集合的子集 二进制法
 
 ## q6174 一个数最大排列减最小排列等于本身
 
