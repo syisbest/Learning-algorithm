@@ -8,6 +8,10 @@
 
 ## bign 实现了数组存储大数的结构体
 
+## bsearch 二分查找
+
+## bsearch_LR 二分查找，当查找的数出现多次时，返回区间
+
 ## cantor 串线数表查找第n个数
 
 ## F 蓝桥F题 1到n中含2 0 1 9这四个数字的和
@@ -28,6 +32,10 @@
 
 ## maxsum 用分治法求数组的最大连续和
 
+## merge_sort 归并排序
+
+## merge_sort_count 利用归并排序找到满足(i<j,A[i]>A[j])的个数
+
 ## n_sum 数组中n个数的和为sum
 
 ## palindrome_number 输出一个回文数且各个位的和等于一个给定的数
@@ -47,6 +55,8 @@
 ## qsort_char 在一串英文单词中匹配一个字母组成相同的单词
 
 ## queue_ex 队列使用案列：队首输出，下一张放到队尾
+
+## quick_sort 快速排序
 
 ## stack_ex 栈使用案例 火车进出站车厢编号
 
