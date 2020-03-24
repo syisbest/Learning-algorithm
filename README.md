@@ -22,6 +22,8 @@
 
 ## continuity_interval 判断一个序列是否能经过变换变为连续序列
 
+## dfs_and_cache dfs中采用记忆数组来减枝，拿宝物，一共能拿k个，每次只能向右或向下，下一个宝物价值大于之前所有，可以选则拿或不拿
+
 ## especial_fractional 特别的分数，a/b*c/d=(ac)/(bd)
 
 ## f 蓝桥F题 1到n中含2 0 1 9这四个数字的和
