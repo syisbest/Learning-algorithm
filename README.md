@@ -30,6 +30,8 @@
 
 ## dfs_and_cache dfs中采用记忆数组来减枝，拿宝物，一共能拿k个，每次只能向右或向下，下一个宝物价值大于之前所有，可以选则拿或不拿
 
+## dfs_mutiple 多次调用dfs，找到不同的起点调用dfs，将字符g周围都变成g
+
 ## equation 凑算式，使其和等于10的方案个数
 
 ## especial_fractional 特别的分数，a/b*c/d=(ac)/(bd)
