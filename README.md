@@ -110,9 +110,13 @@
 
 ## stack_ex 栈使用案例 火车进出站车厢编号
 
+## statistics_like 统计点赞数，求在一个时间区间点赞数超过一定数量的帖子
+
 ## strequl 一个串的最小周期
 
 ## take_cards 拿扑克牌，拿13张牌一共有多少中拿法
+
+## three_array_increase 三个数组，分别取一个数出来时递增的，有多少种取法
 
 ## trangle_S 一个三角形圈住了多少个点
 
