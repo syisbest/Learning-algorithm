@@ -1,5 +1,7 @@
 # Learning-algorithm
 
+## 3n+1 偶数除二，奇数*3+1，最后结果为1的一个序列
+
 ## 8queen 八皇后问题
 
 ## add_ans 加法进位的次数计算
@@ -44,6 +46,8 @@
 
 ## factorial_prime n的阶乘可以写成多个素数的积，求出每个素数的个数
 
+## fast_power_ex 快速幂求(x+m*10^k)%n
+
 ## find_wrong 在连续序列中寻找错误的数，有一个重复和断点
 
 ## four_quadratic_sum 四平方和，求一个数的四平方和形式
@@ -71,6 +75,8 @@
 ## merge_sort 归并排序
 
 ## merge_sort_count 利用归并排序找到满足(i<j,A[i]>A[j])的个数
+
+## mineweep 扫雷，周围一圈有几个*就让该位置数字为几
 
 ## mixed_number 将一个数写成带分数形式，又多少种写法
 
